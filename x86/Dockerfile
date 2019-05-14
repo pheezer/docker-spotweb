@@ -34,4 +34,4 @@ COPY ./conf/spotweb /app
 # Copy root filesystem
 COPY rootfs /
 
-EXPOSE 80
+EXPOSE 8082
